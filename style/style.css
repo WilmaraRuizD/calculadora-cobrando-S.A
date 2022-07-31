@@ -90,7 +90,7 @@ box-icon{
   .modal_container{
       background: white;
       width: 95%;
-      max-width: 500px;
+      max-width: 800px;
       padding: 25px;
       box-sizing: border-box;
       border-radius: 5px  ;
